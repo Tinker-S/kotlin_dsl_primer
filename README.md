@@ -104,3 +104,4 @@ buildTypes {
 - [Gradle Kotlin DSL Primer](https://docs.gradle.org/current/userguide/kotlin_dsl.html)
 - [Migrating build logic from Groovy to Kotlin](https://docs.gradle.org/current/userguide/migrating_from_groovy_to_kotlin_dsl.html#migrating_groovy_kotlin)
 - [配置构建](https://developer.android.com/studio/build/#kts)
+- [gradle-tips](https://developer.android.com/studio/build/gradle-tips?hl=zh-cn)
