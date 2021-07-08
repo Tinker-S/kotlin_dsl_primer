@@ -1,2 +1,3 @@
 rootProject.name = "HelloKotlinDsl"
-include ':app'
+
+include(":app")
