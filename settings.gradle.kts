@@ -1,3 +1,3 @@
-rootProject.name = "HelloKotlinDsl"
+rootProject.name = "KotlinDslPrimer"
 
 include(":app")
