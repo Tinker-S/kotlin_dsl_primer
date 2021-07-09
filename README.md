@@ -59,6 +59,12 @@ tasks {
     }
 }
 ```
+或者
+```
+task<Delete>("clean") {
+    delete(rootProject.buildDir)
+}
+```
 
 ### 修改模块配置
 
